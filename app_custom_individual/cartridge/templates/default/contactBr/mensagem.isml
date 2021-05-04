@@ -1,6 +1,14 @@
-envio com sucesso!!!
-<div>
+<style>
+.content {
+    display: flex;
+    align-content: center;
+}
+
+</style>
+<div class="content">
+    <h3>ENVIO COM SUCESSO !!!</h3>
+    
     <figure>
-        <img width="25%"src="https://cdn.staticneo.com/w/naruto/Nprofile2.jpg" alt="Minha Figura">    
+        <img width="60%"src="https://cdn.staticneo.com/w/naruto/Nprofile2.jpg" alt="Minha Figura">    
     </figure>  
 </div>
